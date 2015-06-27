@@ -7,6 +7,7 @@
 paragraph text here
 
 
-```
+``` R
 this is code
+require(data.table)
 ```
