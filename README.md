@@ -7,7 +7,7 @@
 paragraph text here
 
 
-``` R
+```r
 this is code
 require(data.table)
 ```
